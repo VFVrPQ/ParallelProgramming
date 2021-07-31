@@ -1,2 +1,2 @@
 # ParallelProgramming
-USTC并行程序设计（写的不是很好，主要是为了保存代码）
+USTC并行程序设计（保存代码）
